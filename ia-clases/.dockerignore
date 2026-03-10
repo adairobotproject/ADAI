@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentación
+*.md
+docs/
+
+# Logs
+*.log
+logs/
+
+# Datos temporales
+*.tmp
+*.temp
+.cache/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Tests
+__tests__/
+test_*.py
+*_test.py
+
+# Configuración local
+.env
+.env.local
+config/local.json
+
+# Archivos grandes
+*.pdf
+*.zip
+*.tar.gz
+

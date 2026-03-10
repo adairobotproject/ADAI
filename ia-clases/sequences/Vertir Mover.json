@@ -1,0 +1,130 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-09-09T12:14:08.321653",
+  "movements": [
+    {
+      "id": 3,
+      "name": "Movement_3",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 45.0,
+            "FI": 80.0,
+            "FD": 110.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Arm movement 4",
+          "timestamp": 1757441605.9462214
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 45.0,
+            "FI": 80.0,
+            "FD": 110.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1757441617.0761864
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 80
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 80°",
+          "timestamp": 1757441623.3554423
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 100
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 100°",
+          "timestamp": 1757441624.1790228
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 120
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 120°",
+          "timestamp": 1757441626.4151423
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 140
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 140°",
+          "timestamp": 1757441628.06947
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 160
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 160°",
+          "timestamp": 1757441629.9084055
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 180
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 180°",
+          "timestamp": 1757441631.5559292
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 180
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 180°",
+          "timestamp": 1757441636.4708912
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 45.0,
+            "FI": 80.0,
+            "FD": 110.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 10",
+          "timestamp": 1757441640.4161053
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 10
+}

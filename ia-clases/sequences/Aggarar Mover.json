@@ -1,0 +1,55 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-09-09T12:12:46.827635",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "CERRAR"
+          },
+          "duration": 1000,
+          "description": "derecha cerrar gesture",
+          "timestamp": 1757441519.3195965
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 110.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1757441555.5974965
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 110.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 3",
+          "timestamp": 1757441556.6753244
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 3
+}

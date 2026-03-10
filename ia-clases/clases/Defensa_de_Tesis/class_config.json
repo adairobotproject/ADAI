@@ -1,0 +1,9 @@
+{
+  "title": "Defensa de Tesis",
+  "subject": "Presentación Académica",
+  "description": "Ceremonia de defensa de tesis con asistencia del robot ADAI",
+  "duration": "60 minutos",
+  "created_at": "2025-10-27T11:35:00.000000",
+  "main_file": "Defensa_de_Tesis.py",
+  "folder_name": "Defensa_de_Tesis"
+}

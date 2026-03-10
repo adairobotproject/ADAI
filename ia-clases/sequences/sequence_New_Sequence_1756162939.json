@@ -1,0 +1,2706 @@
+{
+  "name": "New Sequence",
+  "timestamp": 1756162939.3343718,
+  "positions": [
+    {
+      "timestamp": 1756162922.9191413,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162923.6261916,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 90,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162924.2400627,
+      "arms": [],
+      "neck": [],
+      "hands": [
+        {
+          "mano": "derecha",
+          "gesto": "paz"
+        },
+        {
+          "mano": "izquierda",
+          "gesto": "paz"
+        }
+      ],
+      "wrists": [
+        {
+          "mano": "derecha",
+          "angulo": 80
+        },
+        {
+          "mano": "izquierda",
+          "angulo": 80
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162924.272917,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162924.9585538,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162925.676664,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162927.3211188,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162928.3337753,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162928.9511044,
+      "arms": [],
+      "neck": [],
+      "hands": [
+        {
+          "mano": "derecha",
+          "gesto": "rock"
+        },
+        {
+          "mano": "izquierda",
+          "gesto": "rock"
+        }
+      ],
+      "wrists": [
+        {
+          "mano": "derecha",
+          "angulo": 80
+        },
+        {
+          "mano": "izquierda",
+          "angulo": 80
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162929.0030282,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162929.571132,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162930.1805265,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162930.8172846,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162931.3632367,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162932.0706496,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162932.6333811,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162933.2650607,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162933.28831,
+      "arms": [],
+      "neck": [],
+      "hands": [
+        {
+          "mano": "derecha",
+          "gesto": "senalar"
+        },
+        {
+          "mano": "izquierda",
+          "gesto": "senalar"
+        }
+      ],
+      "wrists": [
+        {
+          "mano": "derecha",
+          "angulo": 80
+        },
+        {
+          "mano": "izquierda",
+          "angulo": 80
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162933.8768523,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162934.4948437,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162935.2010763,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162935.9151485,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162936.5405684,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    },
+    {
+      "timestamp": 1756162937.1398404,
+      "arms": [
+        {
+          "nombre": "Brazo Izq",
+          "posicion": 0,
+          "min": 10,
+          "max": 30
+        },
+        {
+          "nombre": "Frente Izq",
+          "posicion": 100,
+          "min": 60,
+          "max": 120
+        },
+        {
+          "nombre": "Brazo Der",
+          "posicion": 0,
+          "min": 30,
+          "max": 55
+        },
+        {
+          "nombre": "Frente Der",
+          "posicion": 90,
+          "min": 70,
+          "max": 110
+        }
+      ],
+      "neck": [
+        {
+          "nombre": "Lateral",
+          "posicion": 155,
+          "min": 120,
+          "max": 160
+        },
+        {
+          "nombre": "Inferior",
+          "posicion": 95,
+          "min": 60,
+          "max": 130
+        },
+        {
+          "nombre": "Superior",
+          "posicion": 105,
+          "min": 109,
+          "max": 110
+        }
+      ],
+      "hands": [
+        {
+          "nombre": "D-Pulgar",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-\u00cdndice",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Medio",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Anular",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "D-Me\u00f1ique",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Pulgar",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-\u00cdndice",
+          "posicion": 180,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Medio",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Anular",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        },
+        {
+          "nombre": "I-Me\u00f1ique",
+          "posicion": 0,
+          "min": 0,
+          "max": 120
+        }
+      ],
+      "wrists": [
+        {
+          "nombre": "Mu\u00f1eca Der",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        },
+        {
+          "nombre": "Mu\u00f1eca Izq",
+          "posicion": 80,
+          "min": 0,
+          "max": 160
+        }
+      ]
+    }
+  ]
+}

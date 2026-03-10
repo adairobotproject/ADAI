@@ -1,0 +1,45 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-09-01T03:38:30.445412",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 52,
+            "FI": 80,
+            "FD": 90,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Arm movement 2",
+          "timestamp": 1756719468.7186646
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 52,
+            "FI": 80,
+            "FD": 90,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1756719485.0274491
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 2
+}

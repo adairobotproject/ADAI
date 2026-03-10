@@ -1,0 +1,503 @@
+{
+  "name": "Tomar",
+  "title": "New Sequence",
+  "created_at": "2025-09-01T15:00:33.573972",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 65
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756759851.8655138
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 0
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756759852.8087165
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 40,
+            "FI": 80,
+            "FD": 90,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 3",
+          "timestamp": 1756759855.7488656
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Movement_2",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 40,
+            "FI": 80,
+            "FD": 71,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Arm movement 3",
+          "timestamp": 1756760051.0473204
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 40,
+            "FI": 80,
+            "FD": 71,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1756760055.107244
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Movement_5",
+      "actions": [
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "ambas",
+            "GESTO": "ABRIR"
+          },
+          "duration": 1000,
+          "description": "ambas abrir gesture",
+          "timestamp": 1756760278.4582174
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "ambas",
+            "GESTO": "CERRAR"
+          },
+          "duration": 1000,
+          "description": "ambas cerrar gesture",
+          "timestamp": 1756760309.5202405
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 71,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 3",
+          "timestamp": 1756760312.4619834
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Movement_6",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 83,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Arm movement 7",
+          "timestamp": 1756760341.2430425
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 83,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1756760344.307297
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Movement_7",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 92,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Arm movement 8",
+          "timestamp": 1756760354.456997
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 92,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1756760366.381884
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Movement_8",
+      "actions": [
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 44
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760377.9733222
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 55
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760378.2164845
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 56
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760378.3941247
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 62
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760378.6377661
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 63
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760378.8318107
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 65
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760379.4706688
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 71
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760379.6746142
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 81
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760379.8524272
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 82
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760380.4223423
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 101
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760380.8657572
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 97
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760381.1151485
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 96
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760382.707621
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 121
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760383.166173
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 130
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760383.3875036
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 134
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760384.2388372
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 149
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760384.7672036
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 150
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760387.4789507
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 160
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760388.0345938
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 92,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 19",
+          "timestamp": 1756760397.5718167
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Movement_9",
+      "actions": [
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 159
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760410.2522106
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 129
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760410.6552465
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 128
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760411.1184177
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 101
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760411.3763094
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 59
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760411.5855348
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 1
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760411.8540928
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 0
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756760412.422089
+        }
+      ]
+    }
+  ],
+  "total_movements": 7,
+  "total_actions": 38
+}

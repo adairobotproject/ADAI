@@ -1,0 +1,31 @@
+{
+  "title": "Mi Clase de Prueba",
+  "subject": "Robots Médicos",
+  "description": "Una clase de prueba generada automáticamente",
+  "duration": "30 minutos",
+  "created_at": "2025-09-15T16:40:19.479802",
+  "main_file": "mi_clase_de_prueba.py",
+  "folder_name": "mi_clase_de_prueba",
+  "use_diagnostic": true,
+  "use_pdf": true,
+  "use_demo": true,
+  "use_final_exam": true,
+  "diagnostic_qr": "test_diagnostic.jpg",
+  "pdf_path": "test_presentation.pdf",
+  "demo_pdf_path": "test_demo.pdf",
+  "final_exam_qr": "test_exam.jpg",
+  "sequence_mapping": {},
+  "question_bank": "default",
+  "esp32_enabled": false,
+  "esp32_host": "192.168.1.100",
+  "esp32_port": 80,
+  "demo_sequences": [
+    {
+      "page": 1,
+      "sequence_file": "/path/to/sequence1.json",
+      "sequence_name": "Saludo",
+      "description": "Secuencia de saludo inicial",
+      "enabled": true
+    }
+  ]
+}

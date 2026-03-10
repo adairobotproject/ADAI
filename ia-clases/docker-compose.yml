@@ -1,0 +1,78 @@
+version: '3.8'
+
+services:
+  robotatlas:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: robotatlas
+    image: robotatlas:latest
+    
+    # Variables de entorno
+    environment:
+      - DISPLAY=${DISPLAY:-:0}
+      - PYTHONUNBUFFERED=1
+      - TZ=America/Mexico_City
+    
+    # Volúmenes para persistencia
+    volumes:
+      - ./clases:/app/clases
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./config:/app/config
+      # Para X11 (GUI) en Linux
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      # Para acceso a dispositivos
+      - /dev/video0:/dev/video0  # Cámara (ajustar según tu sistema)
+      - /dev/snd:/dev/snd        # Audio
+    
+    # Puertos
+    ports:
+      - "8000:8000"   # API móvil (ajustar según configuración)
+      - "8080:8080"   # Puerto alternativo
+      - "5900:5900"   # VNC (para acceso remoto a GUI)
+    
+    # Privilegios para acceso a dispositivos
+    privileged: true
+    
+    # Red
+    network_mode: "host"  # Para acceso completo a la red local (ESP32, etc.)
+    
+    # Recursos
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 4G
+        reservations:
+          cpus: '2'
+          memory: 2G
+    
+    # Reinicio automático
+    restart: unless-stopped
+    
+    # Comando por defecto (puede sobrescribirse)
+    command: python robot_gui_conmodulos.py
+
+  # Servicio opcional para modo headless (sin GUI)
+  robotatlas-headless:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: robotatlas-headless
+    image: robotatlas:latest
+    environment:
+      - PYTHONUNBUFFERED=1
+      - DISPLAY=:99
+      - HEADLESS=true
+    volumes:
+      - ./clases:/app/clases
+      - ./data:/app/data
+      - ./logs:/app/logs
+    ports:
+      - "8001:8000"
+    network_mode: "host"
+    command: xvfb-run -a python robot_gui_conmodulos.py
+    profiles:
+      - headless
+

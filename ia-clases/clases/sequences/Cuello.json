@@ -1,0 +1,182 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-09-19T11:35:34.717376",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Arm movement 2",
+          "timestamp": 1758303304.5056348
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 125,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1758303270.611113
+        },
+       
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 150,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 7",
+          "timestamp": 1758303276.121505
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 8",
+          "timestamp": 1758303277.9723077
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 145,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 9",
+          "timestamp": 1758303280.8605773
+        },
+      
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 120,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 14",
+          "timestamp": 1758303285.4536293
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 15",
+          "timestamp": 1758303286.946655
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 120,
+            "I": 100,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 16",
+          "timestamp": 1758303290.1050014
+        },
+       
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 120,
+            "I": 130,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 22",
+          "timestamp": 1758303294.8887079
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 23",
+          "timestamp": 1758303297.979239
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 120,
+            "I": 125,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 24",
+          "timestamp": 1758303300.5064795
+        },
+       
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 120,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 30",
+          "timestamp": 1758303304.5056348
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 31",
+          "timestamp": 1758303306.0509067
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 31
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Secuencia Saludo",
+  "timestamp": 1756657814.0754158,
+  "positions": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "description": "Posición inicial"
+    },
+    {
+      "x": 10,
+      "y": 20,
+      "z": 30,
+      "description": "Levantar brazo"
+    },
+    {
+      "x": 20,
+      "y": 40,
+      "z": 60,
+      "description": "Extender brazo"
+    },
+    {
+      "x": 10,
+      "y": 20,
+      "z": 30,
+      "description": "Bajar brazo"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "description": "Posición final"
+    }
+  ]
+}

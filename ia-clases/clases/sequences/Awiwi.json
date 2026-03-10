@@ -1,0 +1,75 @@
+{
+  "name": "Awiwi",
+  "title": "New Sequence",
+  "created_at": "2025-09-01T11:51:49.800228",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 50,
+            "FI": 80,
+            "FD": 101,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 1",
+          "timestamp": 1756749077.9117076
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 36,
+            "FI": 80,
+            "FD": 90,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1756749058.5621367
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 36,
+            "FI": 80,
+            "FD": 63,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 3",
+          "timestamp": 1756749069.164807
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 50,
+            "FI": 80,
+            "FD": 101,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 4",
+          "timestamp": 1756749080.3499186
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 4
+}

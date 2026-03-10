@@ -1,0 +1,102 @@
+{
+  "name": "Quimica_Neutralizacion",
+  "title": "Secuencia Clase de Química - Neutralización",
+  "description": "Secuencia de movimientos para la clase de neutralización con bicarbonato de sodio",
+  "created_at": "2025-08-31T11:00:00.000000",
+  "version": "1.0",
+  "author": "ADAI Class Builder",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Saludo Químico",
+      "type": "gesture",
+      "parameters": {
+        "gesture_type": "wave",
+        "duration": 2000
+      },
+      "description": "Saludo inicial para la clase de química"
+    },
+    {
+      "id": 2,
+      "name": "Centrar Posición",
+      "type": "movement",
+      "parameters": {
+        "movement_type": "center",
+        "duration": 1000
+      },
+      "description": "Centrar la posición del robot"
+    },
+    {
+      "id": 3,
+      "name": "Gesto de Explicación",
+      "type": "gesture",
+      "parameters": {
+        "gesture_type": "explain",
+        "duration": 3000
+      },
+      "description": "Gesto para explicar conceptos químicos"
+    },
+    {
+      "id": 4,
+      "name": "Mirar Reactivos",
+      "type": "movement",
+      "parameters": {
+        "movement_type": "look_left",
+        "duration": 1500
+      },
+      "description": "Mirar hacia los reactivos"
+    },
+    {
+      "id": 5,
+      "name": "Mirar Equipos",
+      "type": "movement",
+      "parameters": {
+        "movement_type": "look_right",
+        "duration": 1500
+      },
+      "description": "Mirar hacia los equipos de laboratorio"
+    },
+    {
+      "id": 6,
+      "name": "Gesto de Experimento",
+      "type": "gesture",
+      "parameters": {
+        "gesture_type": "experiment_gesture",
+        "duration": 2500
+      },
+      "description": "Gesto para indicar experimento"
+    },
+    {
+      "id": 7,
+      "name": "Centrar de Nuevo",
+      "type": "movement",
+      "parameters": {
+        "movement_type": "center",
+        "duration": 1000
+      },
+      "description": "Volver a posición central"
+    },
+    {
+      "id": 8,
+      "name": "Gesto de Aprobación",
+      "type": "gesture",
+      "parameters": {
+        "gesture_type": "ok_gesture",
+        "duration": 2000
+      },
+      "description": "Aprobación del experimento"
+    },
+    {
+      "id": 9,
+      "name": "Despedida Química",
+      "type": "gesture",
+      "parameters": {
+        "gesture_type": "wave",
+        "duration": 2000
+      },
+      "description": "Despedida final de la clase"
+    }
+  ],
+  "total_duration": 17500,
+  "tags": ["quimica", "neutralizacion", "experimento", "laboratorio"]
+}

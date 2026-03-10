@@ -1,0 +1,156 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-10-30T09:23:14.502928",
+  "movements": [
+    {
+      "id": 4,
+      "name": "Movement_4",
+      "actions": [
+      
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 0.0,
+            "FI": 80.0,
+            "FD": 70.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 12",
+          "timestamp": 1761837737.5346625
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 13",
+          "timestamp": 1761837742.9502668
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 14",
+          "timestamp": 1761837743.7727327
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 15",
+          "timestamp": 1761837743.8441422
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 16",
+          "timestamp": 1761837744.1686144
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 17",
+          "timestamp": 1761837744.379681
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 18",
+          "timestamp": 1761837744.5835633
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 19",
+          "timestamp": 1761837746.6617315
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 20",
+          "timestamp": 1761837747.054702
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 21",
+          "timestamp": 1761837747.2628195
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 55,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 22",
+          "timestamp": 1761837747.681739
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 110.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 23",
+          "timestamp": 1761837751.545427
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 23
+}

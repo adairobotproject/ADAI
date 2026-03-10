@@ -1,0 +1,9 @@
+{
+  "title": "MM",
+  "subject": "IoMT",
+  "description": "Una clase sobre robots en medicina",
+  "duration": "45 minutos",
+  "created_at": "2025-10-03T15:53:25.442283",
+  "main_file": "MM_clase.py",
+  "folder_name": "MM_clase"
+}

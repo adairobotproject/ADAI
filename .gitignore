@@ -1,0 +1,50 @@
+# Claude Code
+.claude/
+CLAUDE.md
+AGENTS.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# PyInstaller build artifacts
+ia-clases/build/
+ia-clases/dist/
+
+# Inno Setup output (el .exe se distribuye via GitHub Releases)
+installer/Output/
+
+# Binarios compilados de ESP32
+*.bin
+
+# OS files
+.DS_Store
+
+# Python venv config
+pyvenv.cfg
+
+# Node
+atlas/node_modules/
+atlas/dist/
+
+# Existing exclusions
+ia-clases/ai/*
+ia-clases/temp/*
+ia-clases/share/*
+ia-clases/tribunal_faces/*
+ia-clases/ui/*
+ia-clases/vision/*
+ia-clases/Scripts/*
+ia-clases/exams/*
+ia-clases/exoesqueletosexamen/*
+ia-clases/faces/*
+ia-clases/include/*
+ia-clases/moredocs/*
+ia-clases/logs/*
+ia-clases/robotsmedicosexamen/*
+ia-clases/utils/*
+ia-clases/bin/*
+ia-clases/lib/*

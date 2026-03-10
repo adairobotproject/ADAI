@@ -1,0 +1,54 @@
+{
+  "Demo Ejemplo": {
+    "name": "Demo Ejemplo",
+    "title": "Demo de Ejemplo - Robótica Educativa",
+    "description": "Una demostración completa del sistema de secuencias con PDF",
+    "pdf_path": "clases/DesafiosDeIoMT.pdf",
+    "page_count": 8,
+    "created_at": "2025-08-31T10:30:14.121410",
+    "page_sequences": {
+      "0": "New Sequence",
+      "1": null,
+      "2": "Secuencia Demostración",
+      "3": null,
+      "4": "Secuencia Despedida",
+      "5": null,
+      "6": null,
+      "7": null
+    },
+    "sequence_timing": {
+      "0": 5.0,
+      "1": 5.0,
+      "2": 8.0,
+      "3": 5.0,
+      "4": 3.0,
+      "5": 5.0,
+      "6": 5.0,
+      "7": 5.0
+    }
+  },
+  "Demo Química Neutralización": {
+    "name": "Demo Química Neutralización",
+    "title": "Demo Clase de Química - Neutralización con Bicarbonato",
+    "description": "Demostración completa de la clase de neutralización con secuencias de robot",
+    "pdf_path": "clases/clase_quimica_neutralizacion/Demo_Paso_a_Paso.pdf",
+    "page_count": 6,
+    "created_at": "2025-08-31T11:05:00.000000",
+    "page_sequences": {
+      "0": "Quimica_Neutralizacion",
+      "1": "Quimica_Neutralizacion",
+      "2": "Quimica_Neutralizacion",
+      "3": "Quimica_Neutralizacion",
+      "4": "Quimica_Neutralizacion",
+      "5": "Quimica_Neutralizacion"
+    },
+    "sequence_timing": {
+      "0": 8.0,
+      "1": 10.0,
+      "2": 12.0,
+      "3": 8.0,
+      "4": 6.0,
+      "5": 5.0
+    }
+  }
+}

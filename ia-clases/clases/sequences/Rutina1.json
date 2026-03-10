@@ -1,0 +1,278 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-09-04T16:06:54.622094",
+  "movements": [
+    {
+      "id": 4,
+      "name": "Movement_4",
+      "actions": [
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "ABRIR"
+          },
+          "duration": 1000,
+          "description": "derecha abrir gesture",
+          "timestamp": 1757022808.5938644
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "CERRAR"
+          },
+          "duration": 1000,
+          "description": "derecha cerrar gesture",
+          "timestamp": 1757022809.8342242
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 70.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 3",
+          "timestamp": 1757022811.6145847
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "ABRIR"
+          },
+          "duration": 1000,
+          "description": "derecha abrir gesture",
+          "timestamp": 1757022814.3106294
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 70.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 5",
+          "timestamp": 1757022816.5365272
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "CERRAR"
+          },
+          "duration": 1000,
+          "description": "derecha cerrar gesture",
+          "timestamp": 1757022818.8457825
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 70.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 7",
+          "timestamp": 1757022820.5465236
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "ABRIR"
+          },
+          "duration": 1000,
+          "description": "derecha abrir gesture",
+          "timestamp": 1757022823.1364748
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 70.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 9",
+          "timestamp": 1757022825.156149
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 40.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Arm movement 2",
+          "timestamp": 1757022704.9881508
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 55.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1757022656.5816054
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 170.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 3",
+          "timestamp": 1757022664.6399126
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 55.0,
+            "FI": 80.0,
+            "FD": 40.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 4",
+          "timestamp": 1757022685.0108013
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 40.0,
+            "FI": 80.0,
+            "FD": 40.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 5",
+          "timestamp": 1757022694.017589
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 40.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 6",
+          "timestamp": 1757022708.2464569
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Movement_2",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 70.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Arm movement 3",
+          "timestamp": 1757022716.0363579
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 70.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1757022718.1855807
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Movement_6",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 70.0,
+            "FI": 80.0,
+            "FD": 100.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Arm movement 7",
+          "timestamp": 1757023002.5395243
+        }
+      ]
+    }
+  ],
+  "total_movements": 4,
+  "total_actions": 18
+}

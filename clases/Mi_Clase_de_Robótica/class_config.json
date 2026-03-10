@@ -1,0 +1,22 @@
+{
+  "title": "Mi Clase de Robótica",
+  "subject": "Robots Médicos",
+  "description": "Una clase sobre robots en medicina",
+  "duration": "45 minutos",
+  "created_at": "2025-09-15T16:23:21.378026",
+  "main_file": "Mi_Clase_de_Robótica_clase.py",
+  "folder_name": "Mi_Clase_de_Robótica",
+  "use_diagnostic": true,
+  "use_pdf": true,
+  "use_demo": true,
+  "use_final_exam": true,
+  "diagnostic_qr": "C:/Users/josue/Downloads/download (3).jpg",
+  "pdf_path": "C:/Users/josue/Downloads/T1_Josue Romero.pdf",
+  "demo_pdf_path": "C:/Users/josue/Downloads/T1_Josue Romero.pdf",
+  "final_exam_qr": "C:/Users/josue/Downloads/download (2).jpg",
+  "sequence_mapping": {},
+  "question_bank": "default",
+  "esp32_enabled": false,
+  "esp32_host": "192.168.1.100",
+  "esp32_port": 80
+}

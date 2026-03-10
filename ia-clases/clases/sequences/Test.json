@@ -1,0 +1,30 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-08-31T22:48:56.253539",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 80,
+            "FI": 80,
+            "FD": 45,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Arm movement 2",
+          "timestamp": 1756702133.1042938
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 1
+}

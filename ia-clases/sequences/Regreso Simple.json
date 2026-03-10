@@ -1,0 +1,95 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-09-09T12:19:51.116753",
+  "movements": [
+    {
+      "id": 2,
+      "name": "Movement_2",
+      "actions": [
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 160
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 160°",
+          "timestamp": 1757441966.193655
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 140
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 140°",
+          "timestamp": 1757441967.197227
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 120
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 120°",
+          "timestamp": 1757441968.2388296
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 100
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 100°",
+          "timestamp": 1757441969.4493458
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 80
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 80°",
+          "timestamp": 1757441970.4798093
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 6",
+          "timestamp": 1757441985.0182054
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 7",
+          "timestamp": 1757441986.4971714
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 7
+}

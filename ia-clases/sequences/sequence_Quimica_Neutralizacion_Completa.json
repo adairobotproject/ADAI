@@ -1,0 +1,687 @@
+{
+  "name": "Quimica_Neutralizacion_Completa",
+  "title": "Demo Completa de Neutralización de Ácido",
+  "description": "Secuencia completa para demostrar neutralización de ácido clorhídrico con bicarbonato de sodio",
+  "created_at": "2025-01-27T10:00:00.000000",
+  "version": "1.0",
+  "author": "ADAI Class Builder",
+  "subject": "Química",
+  "duration_minutes": 15,
+  "safety_mode": true,
+  "movements": [
+    {
+      "id": 1,
+      "name": "Inicialización",
+      "type": "setup",
+      "description": "Preparar robot para la demo",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "FI": 80,
+            "HI": 80,
+            "BD": 40,
+            "FD": 90,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Posición de descanso inicial"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Cuello en posición central"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "DESCANSO"
+          },
+          "duration": 500,
+          "description": "Mano derecha en descanso"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "izquierda",
+            "GESTO": "DESCANSO"
+          },
+          "duration": 500,
+          "description": "Mano izquierda en descanso"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Saludo Inicial",
+      "type": "greeting",
+      "description": "Saludo y presentación de la clase",
+      "actions": [
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "¡Hola estudiantes! Bienvenidos a la clase de química"
+          },
+          "duration": 3000,
+          "description": "Saludo inicial"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BD": 30,
+            "FD": 110,
+            "HD": 85,
+            "PD": 60
+          },
+          "duration": 1000,
+          "description": "Preparar brazo para saludo"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "SALUDO"
+          },
+          "duration": 2000,
+          "description": "Gesto de saludo"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 90
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo 1"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 110
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo 2"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 90
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo 3"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 110
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo 4"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 90
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo 5"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 110
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo 6"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Introducción al Tema",
+      "type": "introduction",
+      "description": "Introducir el tema de neutralización",
+      "actions": [
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Hoy aprenderemos sobre neutralización de ácidos"
+          },
+          "duration": 2000,
+          "description": "Introducción al tema"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "EXPLICAR"
+          },
+          "duration": 2000,
+          "description": "Gesto de explicación"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "La neutralización es una reacción química entre un ácido y una base"
+          },
+          "duration": 3000,
+          "description": "Definición de neutralización"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 130
+          },
+          "duration": 1000,
+          "description": "Mirar hacia reactivos (izquierda)"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 150
+          },
+          "duration": 1000,
+          "description": "Mirar hacia equipos (derecha)"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155
+          },
+          "duration": 500,
+          "description": "Volver al centro"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Demostración de Reactivos",
+      "type": "demonstration",
+      "description": "Mostrar y explicar los reactivos",
+      "actions": [
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Para esta demostración necesitamos ácido clorhídrico y bicarbonato de sodio"
+          },
+          "duration": 4000,
+          "description": "Presentar reactivos"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BD": 30,
+            "FD": 100,
+            "HD": 80
+          },
+          "duration": 1000,
+          "description": "Señalar reactivos"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "SENALAR"
+          },
+          "duration": 2000,
+          "description": "Gesto de señalar"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "El ácido clorhídrico es muy corrosivo, por eso usamos equipo de protección"
+          },
+          "duration": 4000,
+          "description": "Advertencia de seguridad"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "ambas",
+            "GESTO": "PRECAUCION"
+          },
+          "duration": 2000,
+          "description": "Gesto de precaución"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Preparación del Experimento",
+      "type": "preparation",
+      "description": "Preparar el experimento de neutralización",
+      "actions": [
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Ahora vamos a preparar nuestro experimento de neutralización"
+          },
+          "duration": 3000,
+          "description": "Introducir preparación"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "PREPARAR"
+          },
+          "duration": 2000,
+          "description": "Gesto de preparación"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "I": 110
+          },
+          "duration": 1000,
+          "description": "Mirar hacia mesa de trabajo"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Primero, colocamos el bicarbonato de sodio en el matraz"
+          },
+          "duration": 3000,
+          "description": "Explicar primer paso"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BD": 35,
+            "FD": 95,
+            "HD": 75
+          },
+          "duration": 1000,
+          "description": "Posición para colocar"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "COLOCAR"
+          },
+          "duration": 2000,
+          "description": "Gesto de colocar"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Realización de la Neutralización",
+      "type": "experiment",
+      "description": "Realizar la reacción de neutralización",
+      "actions": [
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Ahora agregamos lentamente el ácido clorhídrico al bicarbonato"
+          },
+          "duration": 4000,
+          "description": "Explicar proceso"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BD": 30,
+            "FD": 105,
+            "HD": 80
+          },
+          "duration": 1000,
+          "description": "Posición para agregar"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "GOTEAR"
+          },
+          "duration": 3000,
+          "description": "Gesto de agregar gota a gota"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Observen la reacción: se produce dióxido de carbono y agua"
+          },
+          "duration": 4000,
+          "description": "Explicar reacción"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "I": 120
+          },
+          "duration": 1000,
+          "description": "Mirar hacia el experimento"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "OBSERVAR"
+          },
+          "duration": 2000,
+          "description": "Gesto de observación"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "EXITO"
+          },
+          "duration": 1000,
+          "description": "Gesto de éxito"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "¡La neutralización ha sido exitosa! El pH se ha neutralizado"
+          },
+          "duration": 4000,
+          "description": "Confirmar éxito"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Explicación de Resultados",
+      "type": "explanation",
+      "description": "Explicar los resultados de la reacción",
+      "actions": [
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "En esta reacción, el ácido clorhídrico reacciona con el bicarbonato"
+          },
+          "duration": 4000,
+          "description": "Explicar reacción"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "EXPLICAR"
+          },
+          "duration": 2000,
+          "description": "Gesto de explicación"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "La ecuación química es: HCl + NaHCO3 → NaCl + H2O + CO2"
+          },
+          "duration": 5000,
+          "description": "Mostrar ecuación química"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 130
+          },
+          "duration": 1000,
+          "description": "Mirar hacia pizarra"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "ESCRIBIR"
+          },
+          "duration": 2000,
+          "description": "Gesto de escribir"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155
+          },
+          "duration": 500,
+          "description": "Volver al centro"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Esta es una reacción de neutralización típica"
+          },
+          "duration": 3000,
+          "description": "Concluir explicación"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Conclusión y Despedida",
+      "type": "conclusion",
+      "description": "Concluir la clase y despedirse",
+      "actions": [
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Hemos aprendido que la neutralización es fundamental en química"
+          },
+          "duration": 4000,
+          "description": "Conclusión principal"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "APROBAR"
+          },
+          "duration": 2000,
+          "description": "Gesto de aprobación"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "Recuerden siempre usar equipo de protección en el laboratorio"
+          },
+          "duration": 4000,
+          "description": "Recordatorio de seguridad"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "ambas",
+            "GESTO": "DESPEDIDA"
+          },
+          "duration": 1000,
+          "description": "Gesto de despedida"
+        },
+        {
+          "command": "HABLAR",
+          "parameters": {
+            "texto": "¡Gracias por su atención! ¿Tienen alguna pregunta?"
+          },
+          "duration": 4000,
+          "description": "Despedida final"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Saludo Final",
+      "type": "greeting",
+      "description": "Saludo final de despedida",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BD": 30,
+            "FD": 110,
+            "HD": 85,
+            "PD": 60
+          },
+          "duration": 1000,
+          "description": "Preparar brazo para saludo final"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "SALUDO"
+          },
+          "duration": 2000,
+          "description": "Saludo final"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 90
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo final 1"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 110
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo final 2"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 90
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo final 3"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 110
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo final 4"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 90
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo final 5"
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "FD": 110
+          },
+          "duration": 300,
+          "description": "Movimiento de saludo final 6"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Posición Final de Descanso",
+      "type": "setup",
+      "description": "Volver a posición de descanso",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "FI": 80,
+            "HI": 80,
+            "BD": 40,
+            "FD": 90,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Brazos en descanso"
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Cuello en descanso"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "DESCANSO"
+          },
+          "duration": 500,
+          "description": "Mano derecha en descanso"
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "izquierda",
+            "GESTO": "DESCANSO"
+          },
+          "duration": 500,
+          "description": "Mano izquierda en descanso"
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "M": "derecha",
+            "ANG": 80
+          },
+          "duration": 500,
+          "description": "Muñeca derecha en descanso"
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "M": "izquierda",
+            "ANG": 80
+          },
+          "duration": 500,
+          "description": "Muñeca izquierda en descanso"
+        }
+      ]
+    }
+  ],
+  "total_duration": 900000,
+  "safety_notes": [
+    "Todos los movimientos respetan los límites de seguridad del robot",
+    "Brazos: BI(10-30), FI(60-120), HI(70-90), BD(30-55), FD(70-110), HD(70-90), PD(0-90)",
+    "Cuello: L(120-160), I(60-130), S(109-110)",
+    "Dedos: 0-180 grados",
+    "Muñecas: 0-160 grados",
+    "Velocidad de movimiento controlada para evitar daños",
+    "Posiciones de descanso seguras entre movimientos"
+  ],
+  "educational_objectives": [
+    "Comprender el concepto de neutralización química",
+    "Identificar los reactivos y productos de la reacción",
+    "Reconocer la importancia de la seguridad en el laboratorio",
+    "Apreciar la aplicación práctica de las reacciones químicas",
+    "Desarrollar habilidades de observación científica"
+  ],
+  "materials_needed": [
+    "Ácido clorhídrico (HCl) diluido",
+    "Bicarbonato de sodio (NaHCO3)",
+    "Matraz Erlenmeyer",
+    "Equipo de protección personal",
+    "Indicador de pH",
+    "Agitador magnético"
+  ],
+  "chemical_equation": "HCl + NaHCO3 → NaCl + H2O + CO2",
+  "reaction_type": "Neutralización ácido-base",
+  "ph_change": "De ácido a neutro",
+  "observations": [
+    "Formación de burbujas (CO2)",
+    "Cambio de pH",
+    "Formación de sal (NaCl)",
+    "Liberación de calor"
+  ]
+}

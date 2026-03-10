@@ -1,0 +1,135 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-09-09T12:17:52.758336",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 160
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 160°",
+          "timestamp": 1757441792.5241346
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 140
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 140°",
+          "timestamp": 1757441793.546549
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 120
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 120°",
+          "timestamp": 1757441794.7766209
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 100
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 100°",
+          "timestamp": 1757441795.7984507
+        },
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 80
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 80°",
+          "timestamp": 1757441797.0216238
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 70.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 6",
+          "timestamp": 1757441856.8283548
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 70.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 7",
+          "timestamp": 1757441833.6057298
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "GESTO": "ABRIR"
+          },
+          "duration": 1000,
+          "description": "derecha abrir gesture",
+          "timestamp": 1757441842.2764363
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 35.0,
+            "FI": 80.0,
+            "FD": 70.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 9",
+          "timestamp": 1757441846.040949
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 70.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 10",
+          "timestamp": 1757441866.7900314
+        }
+      ]
+    }
+  ],
+  "total_movements": 1,
+  "total_actions": 10
+}

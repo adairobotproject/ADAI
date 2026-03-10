@@ -1,0 +1,124 @@
+{
+  "name": "Inicio",
+  "title": "New Sequence",
+  "created_at": "2025-09-01T14:55:04.031246",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 65
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756759851.8655138
+        },
+        {
+          "command": "MANO",
+          "parameters": {
+            "M": "derecha",
+            "TIPO": "muñeca",
+            "ANG": 0
+          },
+          "duration": 1000,
+          "description": "derecha wrist",
+          "timestamp": 1756759852.8087165
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 40,
+            "FI": 80,
+            "FD": 90,
+            "HI": 80,
+            "HD": 80,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 3",
+          "timestamp": 1756759855.7488656
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Movement_2",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 40,
+            "FI": 80,
+            "FD": 71,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Arm movement 3",
+          "timestamp": 1756760051.0473204
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 40,
+            "FI": 80,
+            "FD": 71,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1756760055.107244
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Movement_3",
+      "actions": [
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 71,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Arm movement 4",
+          "timestamp": 1756760079.835764
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10,
+            "BD": 30,
+            "FI": 80,
+            "FD": 71,
+            "HI": 80,
+            "HD": 86,
+            "PD": 45
+          },
+          "duration": 1000,
+          "description": "Captured Position 2",
+          "timestamp": 1756760088.938821
+        }
+      ]
+    }
+  ],
+  "total_movements": 3,
+  "total_actions": 7
+}

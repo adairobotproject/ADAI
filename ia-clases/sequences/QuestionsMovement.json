@@ -1,0 +1,148 @@
+{
+  "name": "New_Sequence",
+  "title": "New Sequence",
+  "created_at": "2025-10-30T09:06:14.368857",
+  "movements": [
+    {
+      "id": 1,
+      "name": "Movement_1",
+      "actions": [
+       
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 140
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 140°",
+          "timestamp": 1761836688.528698
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 10.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 4",
+          "timestamp": 1761836700.4216328
+        },
+      
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 10.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 13",
+          "timestamp": 1761836717.7388463
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Movement_2",
+      "actions": [
+       
+        {
+          "command": "MUNECA",
+          "parameters": {
+            "mano": "derecha",
+            "angulo": 80
+          },
+          "duration": 1000,
+          "description": "derecha wrist to 80°",
+          "timestamp": 1761836732.3506525
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 4",
+          "timestamp": 1761836741.1980684
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 5",
+          "timestamp": 1761836738.9507422
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 6",
+          "timestamp": 1761836739.9710605
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 7",
+          "timestamp": 1761836740.565694
+        },
+        {
+          "command": "CUELLO",
+          "parameters": {
+            "L": 155,
+            "I": 95,
+            "S": 110
+          },
+          "duration": 1000,
+          "description": "Captured Position 8",
+          "timestamp": 1761836741.1980684
+        },
+        {
+          "command": "BRAZOS",
+          "parameters": {
+            "BI": 10.0,
+            "BD": 30.0,
+            "FI": 80.0,
+            "FD": 90.0,
+            "HI": 80.0,
+            "HD": 80.0,
+            "PD": 45.0
+          },
+          "duration": 1000,
+          "description": "Captured Position 9",
+          "timestamp": 1761836742.352767
+        }
+      ]
+    }
+  ],
+  "total_movements": 2,
+  "total_actions": 22
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Secuencia Demostración",
+  "timestamp": 1756657814.0764241,
+  "positions": [
+    {
+      "x": 50,
+      "y": 50,
+      "z": 50,
+      "description": "Centro"
+    },
+    {
+      "x": 100,
+      "y": 50,
+      "z": 50,
+      "description": "Derecha"
+    },
+    {
+      "x": 0,
+      "y": 50,
+      "z": 50,
+      "description": "Izquierda"
+    },
+    {
+      "x": 50,
+      "y": 100,
+      "z": 50,
+      "description": "Arriba"
+    },
+    {
+      "x": 50,
+      "y": 0,
+      "z": 50,
+      "description": "Abajo"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "z": 50,
+      "description": "Centro"
+    }
+  ]
+}
